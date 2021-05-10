@@ -6,3 +6,5 @@ I have taken a less conventional approach to Clipboard exploitation and manageme
 However, if you value being able to perform maths operations and transformations on parameter / property sheets in GUI applications in real-time like an absolute maniac on your keyboard, and retaining clipboard contents is just nice to have most of the time, then this may be for you.
 
 There are also user32.dll based clipboard "paste wait" methods that are more or less broken in 64-bit Windows as far as I and anyone else in public forums can seem to tell. There is also the forthcoming AHK v2's Dynarun method, but v2 is still in an early Alpha state as of this writing, and I figured others might benefit from a solution made with AHK v1 / AutoHotkey_L (1.1.32.00)
+
+https://user-images.githubusercontent.com/15337230/117635105-5eb0e880-b134-11eb-94f2-0a27d389ca81.mp4
